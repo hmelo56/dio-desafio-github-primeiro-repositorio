@@ -2,3 +2,7 @@ Link para download do Git
 https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+GIT é um sistema de controle de versão, também conhecido pela sigla VCS –  version control system.
+
+As alterações/revisões/ atualizações feitas são identificáveis ​​através de códigos de letra ou números. Informações como data e a identidade do autor da alteração também são mantidas.
