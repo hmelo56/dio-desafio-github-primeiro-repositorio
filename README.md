@@ -3,6 +3,8 @@ Repostório criado para o desafio de projeto
 
 ## Links Úteis:
 [Sintaxe Basica MarkDown](https://www.markdownguide.org/basic-syntax/)
+[Instalar Git/GitHub](https://git-scm.com/download/win)
+[Comandos do Terminal Git Bash](https://comandosgit.github.io/)
 
 ## O que é GIT?
 GIT é um sistema de controle de versão, também conhecido pela sigla VCS –  version control system.
