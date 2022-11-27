@@ -5,10 +5,10 @@ Repostório criado para o desafio de projeto
 [Sintaxe Basica MarkDown](https://www.markdownguide.org/basic-syntax/)
 
 ## O que é GIT?
-
+GIT é um sistema de controle de versão, também conhecido pela sigla VCS –  version control system.
 
 ## Primeiro Passo - Instalar o GIT no sistema Windows
-
+Instalação pode ser feita para o Windows no seguinte link [Instalar Git/GitHub](https://git-scm.com/download/win)
 ## Segundo Passo - Como usar o GIT
 Criar/configurar/veruficar um repositório
 
